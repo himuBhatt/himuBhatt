@@ -50,7 +50,7 @@ An **IoT-based healthcare monitoring system** designed to track patient health d
 ✔ Prototype healthcare dashboard  
 ✔ Team project (5 members)
 
-🔗 https://github.com/himuBhatt/vitalcare
+🔗 https://github.com/himuBhatt/VitalCare
 
 ---
 
@@ -65,7 +65,7 @@ A system designed to **track and manage physical files stored in racks, shelves,
 ✔ Manual entry option for file records  
 ✔ Search files using name, file number, and location details
 
-🔗 https://github.com/himuBhatt/recordkeeper
+🔗 https://github.com/himuBhatt/RecordKeeper
 
 ---
 
