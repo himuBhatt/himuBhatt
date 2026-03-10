@@ -38,7 +38,7 @@ I enjoy exploring how **AI tools can accelerate development workflows**, combini
 
 # 📌 Featured Projects
 
-## 🏥 VitalCare – Smart Patient Healthcare Monitoring System
+## 🏥 VitalWeb – Smart Patient Healthcare Monitoring System
 
 An **IoT-based healthcare monitoring system** designed to track patient health data in real time using connected sensors.
 
@@ -50,7 +50,7 @@ An **IoT-based healthcare monitoring system** designed to track patient health d
 ✔ Prototype healthcare dashboard  
 ✔ Team project (5 members)
 
-🔗 https://github.com/himuBhatt/VitalCare
+🔗 https://github.com/himuBhatt/VitalWeb
 
 ---
 
