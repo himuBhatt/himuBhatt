@@ -102,8 +102,11 @@ Studied **SCADA systems, SAP workflows, and industrial networking**.
 
 # 🏆 GitHub Achievements
 
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=himuBhatt&theme=tokyonight&row=1&column=6" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=himuBhatt&theme=tokyonight&no-frame=false&margin-w=15" alt="himuBhatt GitHub Trophies" />
+  </a>
 </p>
 
 ---
