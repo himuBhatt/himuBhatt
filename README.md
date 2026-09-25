@@ -156,14 +156,18 @@ Gained exposure to IT infrastructure and technology used in a large-scale hydroe
 ---
 ## 📊 GitHub Stats
 
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=himuBhatt&show_icons=true&theme=tokyonight" height="180"/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himuBhatt&theme=tokyonight" height="180"/>  </p>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himuBhatt&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himuBhatt&theme=tokyonight" height="180"/>
+</p>
+
 ---
 
 ## 🏆 Top Languages
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himuBhatt&layout=compact&theme=tokyonight" />  
-</p>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himuBhatt&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 🌐 Connect With Me
