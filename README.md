@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 🎓 Pursuing **B.Tech in Computer Science & Engineering (AI & ML)**  
-💻 Diploma in **Computer Engineering**  
+💻 Diploma in **Computer Science & Engineering**  
 🤖 Interested in **Artificial Intelligence & Machine Learning**  
 🌐 Building projects around **IoT and intelligent systems**  
 🐍 Working with **Python** and exploring practical AI applications
