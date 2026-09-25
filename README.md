@@ -164,13 +164,11 @@ Gained exposure to IT infrastructure and technology used in a large-scale hydroe
 
 ---
 
-## 🏆 Top Languages
+## 🏆 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himuBhatt&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himuBhatt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
